@@ -1,1 +1,2611 @@
-
+{
+  "registry_name": "JD IQ Scientific Investigation Registry",
+  "registry_version": "0.1.0",
+  "programme": {
+    "approved_investigation_count": 200,
+    "expansion_closed_at": 200
+  },
+  "record_policy": "Do not invent missing identifiers, titles, descriptions, or scientific objectives. Recover them from original approved sources and record provenance.",
+  "records": [
+    {
+      "number": 1,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 2,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 3,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 4,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 5,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 6,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 7,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 8,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 9,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 10,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 11,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 12,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 13,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 14,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 15,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 16,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 17,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 18,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 19,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 20,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 21,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 22,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 23,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 24,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 25,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 26,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 27,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 28,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 29,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 30,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 31,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 32,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 33,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 34,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 35,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 36,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 37,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 38,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 39,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 40,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 41,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 42,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 43,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 44,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 45,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 46,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 47,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 48,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 49,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 50,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 51,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 52,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 53,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 54,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 55,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 56,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 57,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 58,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 59,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 60,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 61,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 62,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 63,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 64,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 65,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 66,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 67,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 68,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 69,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 70,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 71,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 72,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 73,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 74,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 75,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 76,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 77,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 78,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 79,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 80,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 81,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 82,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 83,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 84,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 85,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 86,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 87,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 88,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 89,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 90,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 91,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 92,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 93,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 94,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 95,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 96,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 97,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 98,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 99,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 100,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 101,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 102,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 103,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 104,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 105,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 106,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 107,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 108,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 109,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 110,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 111,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 112,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 113,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 114,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 115,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 116,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 117,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 118,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 119,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 120,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 121,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 122,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 123,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 124,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 125,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 126,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 127,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": "Identifier is preserved from the historical summary; recover the full title and description."
+    },
+    {
+      "number": 128,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 129,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 130,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 131,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": "Historical summary flags a duplicate entry; verify against original record before resolving."
+    },
+    {
+      "number": 132,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 133,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 134,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 135,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 136,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 137,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 138,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 139,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 140,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 141,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 142,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 143,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 144,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 145,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 146,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 147,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 148,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 149,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 150,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 151,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 152,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 153,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 154,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 155,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 156,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 157,
+      "identifier": "AAI-ISHDDE",
+      "title": "Animal Immunology, Immune Systems and Host-Defence",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 158,
+      "identifier": "AAEHS-NDSDE",
+      "title": "Animal Endocrinology, Hormone Signalling and Neuroendocrine Systems",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 159,
+      "identifier": "AARPGOTDE",
+      "title": "Animal Respiratory Physiology, Gas Exchange and Oxygen Transport",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 160,
+      "identifier": "AACCHSDE",
+      "title": "Animal Cardiovascular, Circulatory and Hemodynamic Systems",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 161,
+      "identifier": "AARPEOSDE",
+      "title": "Animal Renal Physiology, Excretion and Osmoregulation",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 162,
+      "identifier": "AADPNAGFDE",
+      "title": "Animal Digestive Physiology, Nutrient Assimilation and Gastrointestinal Function",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 163,
+      "identifier": "AAMSS-LSDE",
+      "title": "Animal Musculoskeletal, Skeletal Mechanics and Locomotor Systems",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 164,
+      "identifier": "AASRSEPD-E",
+      "title": "Animal Sensory Biology, Receptor Systems and Environmental Perception",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 165,
+      "identifier": "AARBGFDE",
+      "title": "Animal Reproductive Biology, Gametogenesis and Fertilisation",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 166,
+      "identifier": "AATTHBDE",
+      "title": "Animal Thermal Biology, Thermoregulation and Heat-Balance",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 167,
+      "identifier": "AABCSBEDE",
+      "title": "Animal Behaviour, Cognition, Sociality and Behavioural Ecology",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 168,
+      "identifier": "AAIB-BSDADE",
+      "title": "Animal Integumentary Biology, Barrier Systems and Dermal Adaptation",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 169,
+      "identifier": "AABMS-EADE",
+      "title": "Animal Bioenergetics, Metabolic Systems and Energy Allocation",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 170,
+      "identifier": "AARTR-BRDE",
+      "title": "Animal Regeneration, Tissue Repair and Biological Restoration",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 171,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 172,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 173,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 174,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 175,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 176,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 177,
+      "identifier": "AASMHAPDE",
+      "title": "Animal Symbiosis, Mutualism and Host-Associated Partnerships",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 178,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 179,
+      "identifier": null,
+      "title": null,
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 180,
+      "identifier": "AAMLTD-RDE",
+      "title": "Animal Metamorphosis, Life-Cycle Transitions and Developmental Remodelling",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 181,
+      "identifier": "AAMN-MEDE",
+      "title": "Animal Migration, Navigation and Movement Ecology",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 182,
+      "identifier": "AAEAE-PDE",
+      "title": "Animal Ecophysiology, Environmental Adaptation and Physiological Ecology",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 183,
+      "identifier": "AAPDD-LHDE",
+      "title": "Animal Population Dynamics, Demography and Life-History",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 184,
+      "identifier": "AADEPD-WHDE",
+      "title": "Animal Disease Ecology, Pathogen Dynamics and Wildlife Health",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 185,
+      "identifier": "AAWAS-QoLDE",
+      "title": "Animal Welfare, Affective State and Quality-of-Life",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 186,
+      "identifier": "AACSB-SDE",
+      "title": "Animal Communication, Signalling and Biosemiotic Systems",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 187,
+      "identifier": "AASCTB-DE",
+      "title": "Animal Sleep, Circadian and Temporal Biology",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 188,
+      "identifier": "AACD-L2DE",
+      "title": "Animal Cognitive Development and Lifespan Learning",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 189,
+      "identifier": "AAPCCOP-DE",
+      "title": "Animal Parental Care, Caregiving and Offspring Provisioning",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 190,
+      "identifier": "AAVTBSDE",
+      "title": "Animal Venom, Toxin and Bioactive Secretion Systems",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 191,
+      "identifier": "AAPVISDE",
+      "title": "Animal Proprioceptive, Vestibular and Internal-State Sensing",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 192,
+      "identifier": "AABP-OBLDE",
+      "title": "Animal Bioluminescence, Photogenic Organs and Biological Light Production",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 193,
+      "identifier": null,
+      "title": "Autonomous Animal Ecosystem Engineering",
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": "Title is preserved from the historical summary; recover the approved identifier and full description."
+    },
+    {
+      "number": 194,
+      "identifier": null,
+      "title": "Autonomous Animal-Mediated Nutrient Transport",
+      "description": null,
+      "record_status": "needs_source_recovery",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": "Title is preserved from the historical summary; recover the approved identifier and full description."
+    },
+    {
+      "number": 195,
+      "identifier": "AAMPD-ZBCDE",
+      "title": "Animal-Mediated Propagule Dispersal, Zoochory and Biotic Connectivity",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 196,
+      "identifier": "AAPPC-PPIDDE",
+      "title": "Animal Predation, Prey Capture and Predator–Prey Interaction Dynamics",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 197,
+      "identifier": "AAPLH-TSSDE",
+      "title": "Animal Parasitic Life-Cycle, Host Exploitation and Transmission Strategy",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 198,
+      "identifier": "AAEM-DPFDE",
+      "title": "Animal Embryogenesis, Morphogenesis and Developmental Pattern Formation",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 199,
+      "identifier": "AABAA-IMDE",
+      "title": "Animal Biological Attachment, Adhesion and Interfacial Mechanics",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    },
+    {
+      "number": 200,
+      "identifier": "AAB-EPPESDE",
+      "title": "Animal Bioelectricity, Electrogenesis and Physiological Electrical Signalling",
+      "description": null,
+      "record_status": "partial_source_recovery_required",
+      "provenance": {
+        "source_type": "conversation_history",
+        "source_reference": null,
+        "verified_against_original_record": false
+      },
+      "notes": null
+    }
+  ]
+}
